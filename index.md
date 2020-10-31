@@ -2,18 +2,18 @@
 
 layout: col-sidebar
 title: OWASP Sevilla
-tags: example-tag
-level: 0
-
+tags: Sevilla
+level: 3
 region: Europe
-
-auto-migrated: 1
+country: Spain
 
 ---
-![Owasp Sevilla](assets/images/event.png)
+
 
 
 ## OWASP Sevilla
+
+![Owasp Sevilla](assets/images/event.png)
 
 El capítulo de OWASP Sevilla tiene como objetivo formar una comunidad en torno a la seguridad de la información, OWASP es una organización sin ánimo de lucro a nivel internacional que brinda software, metodologías y documentación de rigor profesional bajo licencias Open Source.
 
@@ -47,11 +47,11 @@ Los organizadores de OWASP Sevilla son:
 
 <!-- end list -->
 
-  - [Juan Jose Domenech](mailto:juanjosedomenech@gmail.com)
+  - Juan Jose Domenech
 
 <!-- end list -->
 
-  - [Francisco José Ramírez López](https://twitter.com/paquitocadi)
+  - Francisco José Ramírez López
 
 Los organizadores son voluntarios, no reciben ninguna retribución por
 las tareas que realizan (que no son pocas) ;-), pero aceptan cervezas y
