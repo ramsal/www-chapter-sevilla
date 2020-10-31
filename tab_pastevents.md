@@ -1,10 +1,11 @@
 ---
-title: PastEvents
-displaytext: Past Events
+title: pastevents
+displaytext: PastEvents
 layout: null
 tab: true
-order: 2
-tags: example-tag
+order: 1
+tags: Sevilla
+
 ---
 
 ## Past Events:
@@ -16,8 +17,8 @@ tags: example-tag
 * [2016](#2016)
 
 
-![Owasp Sevilla](assets/images/owaspReu.png)
-
+![Owasp Sevilla](assets/images/owaspReu.png)  
+  
 
 ### 2020 ###
 ---
@@ -149,5 +150,3 @@ sobre **XSS** y su funcionamiento/protección.
 Nuestra primera edición fue bastante informal, presentamos el proyecto,
 empezamos a conocernos y nos tomamos unas cervezas, esto último se ha
 convertido en ritual :-)
-
-
